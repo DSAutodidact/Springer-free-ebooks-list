@@ -1,0 +1,391 @@
+A Beginners Guide To R
+A Beginners Guide To Scala Object Or
+A Beginners Guide To Python3 Progra
+A Clinical Guide To The Treatment Of
+A Concise Guide To Market Research
+A Course In Rasch Measurement Theor
+A First Introduction To Quantum Phy
+A Modern Introduction To Probabili
+A Primer On Scientific Programming
+A Pythagorean Introduction To Numb
+Abstract Algebra
+Acid-Base Diagrams
+Acquired Brain Injury
+Additive Manufacturing Technolog
+Advanced Guide To Python3 Programm
+Advanced Organic Chemistry
+Advanced Organic Chemistry_2
+Advanced Quantum Mechanics
+Air Pollution And Greenhouse Gases
+Algebra
+All Of Statistics
+Alternative Energy Sources
+An Anthology Of London In Literatur
+An Introduction To Biomechanics
+An Introduction To Machine Learnin
+An Introduction To Soil Mechanics
+An Introduction To Statistical Lea
+An Introduction To Zooarchaeology
+Analysis For Computer Scientists
+Analytical Corporate Finance
+Analyzing Qualitative Data With MA
+Applied Behavior Analysis
+Applied Bioinformatics
+Applied Chemistry
+Applied Linear Algebra
+Applied Multivariate Statistical
+Applied Partial Differential Equa
+Applied Predictive Modeling
+Applied Quantitative Finance
+Arc GI SFor Environmental And Water
+Argumentation Theory APragma-Dia
+Astronautics
+Automata And Computability
+Automatic Control With Experiment
+Basic Concepts In Computational Ph
+Basics Of Laser Physics
+Bayesian And Frequentist Regressi
+Bayesian Essentials With R
+Bioinformatics For Evolutionary B
+Biomedical Informatics
+Breast Cancer
+Brewing Science AMultidisciplina
+Brownian Motion Martingales And St
+Building Energy Modeling With Open
+Business Ethics-A Philosophical A
+Business Process Management Cases
+Calculus With Applications
+Cardiovascular Biomechanics
+Ceramic Materials
+Chemical And Bioprocess Engineeri
+Chemical Thermodynamics
+Child Neuropsychology
+Classical Fourier Analysis
+Climate Change Science AModern Syn
+Clinical Assessment Of Child And Ad
+Clinical Data Analysis On APocket C
+Clinical Methods In Medical Family
+Clinical Neuroanatomy ANeurobeha
+Communication And Bioethics At The
+Complex Analysis
+Composite Materials
+Computational Geometry
+Computational Physics
+Computer Vision
+Concepts Methods And Practical App
+Concise Guide To Databases
+Concise Guide To Software Engineer
+Conferencing And Presentation Eng
+Control Engineering
+Control Engineering MA TL AB Exerci
+Corporate Social Responsibility
+Correctional Counseling And Treat
+Cosmology For The Curious
+Criminal Justice And Mental Health
+Cryptography Made Simple
+Customer Relationship Management
+Data Analysis
+Data Mining
+Data Science And Predictive Analyt
+Data Structures And Algorithms Wit
+Database Marketing
+Design And Analysis Of Experiments
+Design Research In Information Sys
+Developmental Neurobiology
+Differential Equations And Their A
+Digital Business Models
+Digital Image Processing
+Disability And Vocational Rehabil
+Discrete Mathematics
+ENZYMES Catalysis Kinetics And Mec
+Econometrics
+Economics As Applied Ethics
+Educational Technology
+Electrical Machines
+Electricity And Magnetism
+Electrochemical Impedance Spectr
+Electrochemistry
+Electronic Commerce
+Electronic Commerce2018
+Electronics For Embedded Systems
+Elementary Analysis
+Elementary Mechanics Using Matlab
+Elementary Mechanics Using Python
+Empathetic Space On Screen
+Energy And The Wealth Of Nations
+Energy Economics
+Energy Harvesting And Energy Effic
+Energy Storage
+Engineering Electromagnetics
+Engineering Flow And Heat Exchange
+Engineering Mechanics1
+Engineering Mechanics2
+Enterprise Risk Management Models
+Entertainment Science
+Epidemiological Research Terms An
+Essential Astrophysics
+Essentials Of Business Analytics
+Essentials Of Cerebellum And Cereb
+Essentials Of Food Science
+Evidence-Based Critical Care
+Evidence-Based Interventions For
+Evidence-Based Practice In Clinic
+Evolutionary Thinking In Medicine
+Exam Survival Guide Physical Chemi
+Excel Data Analysis
+Extragalactic Astronomy And Cosmo
+Eye Tracking Methodology
+Fatigue Of Structures And Material
+Fluid Dynamics
+Food Analysis
+Food Analysis Laboratory Manual
+Food Chemistry
+Food Fraud Prevention
+Foundations For Designing User-Ce
+Foundations Of Analytical Chemist
+Foundations Of Behavioral Health
+Foundations Of Programming Langua
+Foundations Of Quantum Mechanics
+Fraud And Corruption
+Fundamental Astronomy
+Fundamentals Of Biomechanics
+Fundamentals Of Business Process M
+Fundamentals Of Clinical Trials
+Fundamentals Of Java Programming
+Fundamentals Of Multimedia
+Fundamentals Of Power Electronics
+Fundamentals Of Robotic Mechanica
+Fundamentals Of Solid State Engine
+Fundamentals Of Structural Engine
+Game Theory
+Geomorphology Of Desert Environme
+Global Supply Chain And Operations
+Grammar For Teachers
+Group Theory
+Group Theory Applied To Chemistry
+Guide To Competitive Programming
+Guide To Computer Network Security
+Guide To Discrete Mathematics
+Guide To Scientific Computing In C
+Handbook Of Biological Confocal Mi
+Handbook Of Cardiac Anatomy Physio
+Handbook Of Consumer Finance Resea
+Handbook Of Disaster Research
+Handbook Of Evolutionary Research
+Handbook Of LG BT Elders
+Handbook Of Marriage And The Family
+Handbook Of Quantitative Criminol
+Handbook Of Sociological Theory
+Handbook Of The Life Course
+Handbook Of The Sociology Of Gender
+Human Chromosomes
+Integrated Neuroscience
+Integrative Human Biochemistry
+Intermediate Physics For Medicine
+International Business Managemen
+International Handbook Of Histori
+International Humanitarian Actio
+International Perspectives On Psy
+International Trade Theory And Pol
+Internet Of Things From Hype To Real
+Introduction To Artificial Intell
+Introduction To Data Science
+Introduction To Deep Learning
+Introduction To Digital Systems De
+Introduction To Electronic Commer
+Introduction To Embedded Systems
+Introduction To Evolutionary Comp
+Introduction To Formal Philosophy
+Introduction To General Relativit
+Introduction To Law
+Introduction To Logic Circuits Log
+Introduction To Logic Circuits Log_2
+Introduction To Mathematica For Ph
+Introduction To Parallel Computin
+Introduction To Partial Different
+Introduction To Particle And Astro
+Introduction To Plasma Physics And
+Introduction To Programming With F
+Introduction To Smooth Manifolds
+Introduction To Statistics And Dat
+Introduction To Time Series And For
+Introductory Computer Forensics
+Introductory Quantum Mechanics
+Introductory Statistics With R
+Introductory Time Series With R
+Intuitive Probability And Random P
+Irrigation And Drainage Engineeri
+Java In Two Semesters
+Knowledge Management
+L GB T-Parent Families
+La Te XIn24 Hours
+Language Across The Curriculum CL I
+Leadership Today
+Learning Landscape Ecology
+Legal Dynamics Of EU External Relat
+Lessons On Synthetic Bioarchitect
+Life Cycle Assessment
+Linear Algebra
+Linear Algebra And Analytic Geomet
+Linear Algebra Done Right
+Linear And Nonlinear Programming
+Linear Programming
+Logical Foundations Of Cyber-Phys
+Logistics
+MATLAB For Psychologists
+Machine Learning In Medicine-A Com
+Magnetic Interactions In Molecule
+Managing Media And Digital Organiz
+Managing Sustainable Business
+Mapping Global Theatre Histories
+Market Research
+Mass Spectrometry
+Mathematical Logic
+Mathematical Physics
+Mechanics And Thermodynamics
+Media And Digital Management
+Metabolism Of Human Diseases
+Methods Of Mathematical Modelling
+Microeconomics
+Modeling Life
+Modelling Computing Systems
+Motivation And Action
+Multimedia Big Data Computing For I
+Multinational Management
+Multivariate Calculus And Geometr
+Nanotechnology Principles And Pra
+Neural Networks And Deep Learning
+New Introduction To Multiple Time S
+Numerical Optimization
+Object-Oriented Analysis Design A
+Of Cigarettes High Heels And Other I
+Off-Grid Electrical Systems In Dev
+Optimization Of Process Flowsheet
+Ordinary Differential Equations
+Partial Differential Equations
+Particles And Nuclei
+Perceptual Organization
+Perspectives On Elderly Crime And V
+Petroleum Geoscience
+Pharmaceutical Biotechnology
+Philosophical And Mathematical Lo
+Philosophy Of Race
+Philosophy Of Science For Scientis
+Phylogenomics
+Physical Asset Management
+Physical Chemistry From ADifferen
+Physics From Symmetry
+Physics Of Oscillations And Waves
+Physics Of Semiconductor Devices
+Plant Anatomy
+Plant Physiological Ecology
+Plant Physiology Development And M
+Plate Tectonics
+Policing And Minority Communities
+Political Social Work
+Polymer Chemistry
+Polymer Synthesis Theory And Pract
+Practical Electrical Engineering
+Primer On The Rheumatic Diseases
+Principles Of Astrophysics
+Principles Of Data Mining
+Principles Of Fluorescence Spectr
+Principles Of Microeconomics
+Principles Of Mobile Communicatio
+Principles Of Musical Acoustics
+Principles Of Physics
+Principles Of Polymer Chemistry
+Principles Of Quantum Mechanics
+Principles Of Terrestrial Ecosyst
+Probability
+Probability And Statistics For Com
+Probability Theory
+Problems In Classical Electromagn
+Proofs From THE BOOK
+Psychoeducational Assessment And
+Psychology Of Perception
+Psychology Religion And Spiritual
+Python For ArcGIS
+Python Programming Fundamentals
+Quantitative Methods For The Socia
+Quantum Mechanics
+Quantum Mechanics For Pedestrians
+Quantum Mechanics For Pedestrians_2
+Quantum Theory For Mathematicians
+Quick Start Guide To VH DL
+Quick Start Guide To Verilog
+Reactive Power Control In AC Power S
+Reading Writing And Proving
+Readings In Formal Epistemology
+Real Analysis
+Recommender Systems
+Regression Modeling Strategies
+Representation Theory
+Research Methods For Social Justic
+Research Methods For The Digital Hu
+Robotics
+Robotics Vision And Control
+SPSS For Starters And2nd Levelers
+Scanning Electron Microscopy And X
+School Leadership And Educational
+Search Methodologies
+Sensory Evaluation Of Food
+Social Anxiety And Social Phobia In
+Social Justice Theory And Practice
+Social Marketing In Action
+Social Media Management
+Social Psychology In Action
+Solar PV And Wind Energy Conversion
+Solid-State Physics
+Spine Surgery
+Stability And Control Of Linear Sys
+Statics And Mechanics Of Structure
+Statistical Analysis And Data Disp
+Statistical Analysis Of Clinical D
+Statistical Learning From ARegres
+Statistical Mechanics For Enginee
+Statistics And Analysis Of Scienti
+Statistics And Data Analysis For Fi
+Statistics In Criminal Justice
+Stellar Structure And Evolution
+Stochastic Processes And Calculus
+Strategic Human Resource Manageme
+Strategic International Manageme
+Strategic Retail Management
+Structural Analysis
+Structural Dynamics
+Structure Determination By X-ray C
+Supply Chain Management And Advanc
+Survival Analysis
+Sustainability Science
+Sustainable Supply Chains
+System Dynamics
+Systems Programming In Unix Linux
+Taxation In European Union
+Teaching Medicine And Medical Ethi
+The A-Z Of The Ph DTrajectory
+The ASCRS Textbook Of Colon And Rect
+The Action Research Planner
+The Algorithm Design Manual
+The Data Science Design Manual
+The Elements Of Statistical Learni
+The Finite Element Method And Appli
+The Finite Volume Method In Computa
+The Gastrointestinal System
+The Joy Of Science
+The Nature Of Scientific Knowledge
+The Physics Of Semiconductors
+The Psychology Of Social Status
+The Python Workbook
+The Sea Floor
+Thermodynamics And Energy Convers
+Time Series Analysis
+Time Series Econometrics
+Transmission Electron Microscopy
+Travel Marketing Tourism Economic
+UML Classroom
+Understanding Analysis
+Understanding Cryptography
+Understanding Statistics Using R
+Witnessing Torture
+Writing For Publication
