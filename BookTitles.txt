@@ -1,6 +1,6 @@
 A Beginners Guide To R
 A Beginners Guide To Scala Object Or
-A Beginners Guide To Python3 Progra
+A Beginners Guide To Python 3 Progra
 A Clinical Guide To The Treatment Of
 A Concise Guide To Market Research
 A Course In Rasch Measurement Theor
@@ -12,7 +12,7 @@ Abstract Algebra
 Acid-Base Diagrams
 Acquired Brain Injury
 Additive Manufacturing Technolog
-Advanced Guide To Python3 Programm
+Advanced Guide To Python 3 Programm
 Advanced Organic Chemistry
 Advanced Organic Chemistry_2
 Advanced Quantum Mechanics
@@ -37,8 +37,8 @@ Applied Multivariate Statistical
 Applied Partial Differential Equa
 Applied Predictive Modeling
 Applied Quantitative Finance
-Arc GI SFor Environmental And Water
-Argumentation Theory APragma-Dia
+ArcGIS For Environmental And Water
+Argumentation Theory A Pragma-Dia
 Astronautics
 Automata And Computability
 Automatic Control With Experiment
@@ -172,7 +172,7 @@ Handbook Of Cardiac Anatomy Physio
 Handbook Of Consumer Finance Resea
 Handbook Of Disaster Research
 Handbook Of Evolutionary Research
-Handbook Of LG BT Elders
+Handbook Of LGBT Elders
 Handbook Of Marriage And The Family
 Handbook Of Quantitative Criminol
 Handbook Of Sociological Theory
@@ -217,8 +217,8 @@ Intuitive Probability And Random P
 Irrigation And Drainage Engineeri
 Java In Two Semesters
 Knowledge Management
-L GB T-Parent Families
-La Te XIn24 Hours
+LGBT-Parent Families
+LaTeX In 24 Hours
 Language Across The Curriculum CL I
 Leadership Today
 Learning Landscape Ecology
@@ -312,7 +312,7 @@ Quantum Mechanics
 Quantum Mechanics For Pedestrians
 Quantum Mechanics For Pedestrians_2
 Quantum Theory For Mathematicians
-Quick Start Guide To VH DL
+Quick Start Guide To VHDL
 Quick Start Guide To Verilog
 Reactive Power Control In AC Power S
 Reading Writing And Proving
@@ -363,7 +363,7 @@ System Dynamics
 Systems Programming In Unix Linux
 Taxation In European Union
 Teaching Medicine And Medical Ethi
-The A-Z Of The Ph DTrajectory
+The A-Z Of The PhD Trajectory
 The ASCRS Textbook Of Colon And Rect
 The Action Research Planner
 The Algorithm Design Manual
